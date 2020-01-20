@@ -1,2 +1,2 @@
 print "hello darling"
-print "hello aniket sa"
+print "hello aniket"
