@@ -1,2 +1,2 @@
 print "hello darling"
-print " hello shubham1"
+print "hello shubham1"
